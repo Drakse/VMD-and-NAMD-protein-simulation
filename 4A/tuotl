@@ -1,0 +1,6 @@
+extension analysis sequence viewer
+top36, topology file, topology es especifico para cada, como esta organizado mi sistema donde estas mis enlaces
+par36 son parametros generales que coinciden en general (energia enlace c-c), que aproximacion se usa para calcular en enlace
+psf, extension modeling automatic psf builder
+ahora se ven los hidrogenos, VMD mira si la estructura esta bien, como se caracterizo por x-ray faltaban los hidrogenos que ha añadido
+extensions visualization ruler
